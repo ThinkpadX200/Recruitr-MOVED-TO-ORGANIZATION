@@ -15,6 +15,7 @@
 		B366FA381D256A230079990B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B366FA361D256A230079990B /* LaunchScreen.storyboard */; };
 		B366FA431D256A230079990B /* Fraternity_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366FA421D256A230079990B /* Fraternity_appTests.swift */; };
 		B366FA4E1D256A230079990B /* Fraternity_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366FA4D1D256A230079990B /* Fraternity_appUITests.swift */; };
+		B366FA5C1D258DC00079990B /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B366FA5B1D258DC00079990B /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B366FA491D256A230079990B /* Fraternity appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fraternity appUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B366FA4D1D256A230079990B /* Fraternity_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fraternity_appUITests.swift; sourceTree = "<group>"; };
 		B366FA4F1D256A230079990B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B366FA5B1D258DC00079990B /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B366FA2B1D256A230079990B /* AppDelegate.swift */,
 				B366FA2D1D256A230079990B /* FirstViewController.swift */,
 				B366FA2F1D256A230079990B /* SecondViewController.swift */,
+				B366FA5B1D258DC00079990B /* ThirdViewController.swift */,
 				B366FA311D256A230079990B /* Main.storyboard */,
 				B366FA341D256A230079990B /* Assets.xcassets */,
 				B366FA361D256A230079990B /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				B366FA301D256A230079990B /* SecondViewController.swift in Sources */,
 				B366FA2C1D256A230079990B /* AppDelegate.swift in Sources */,
+				B366FA5C1D258DC00079990B /* ThirdViewController.swift in Sources */,
 				B366FA2E1D256A230079990B /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
